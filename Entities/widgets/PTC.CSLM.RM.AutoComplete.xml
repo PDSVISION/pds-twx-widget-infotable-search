@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Entities>
+    <Widgets>
+        <Widget
+         name="Autocomplete">
+            <UIResources>
+                <FileResource
+                 file="Autocomplete.ide.js"
+                 isDevelopment="true"
+                 isRuntime="false"
+                 type="JS"></FileResource>
+                <FileResource
+                 file="Autocomplete.runtime.js"
+                 isDevelopment="false"
+                 isRuntime="true"
+                 type="JS"></FileResource>
+                <FileResource
+                 file="Autocomplete.ide.css"
+                 isDevelopment="true"
+                 isRuntime="false"
+                 type="CSS"></FileResource>
+                <FileResource
+                 file="Autocomplete.runtime.css"
+                 isDevelopment="false"
+                 isRuntime="true"
+                 type="CSS"></FileResource>
+            </UIResources>
+        </Widget>
+    </Widgets>
+</Entities>
